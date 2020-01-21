@@ -7,7 +7,7 @@ section.has-light-background h1 {
 }
 
 .livgreen {
-    color: #12fdbf;
+    /*color: #12fdbf;*/
 }
 
 #talktitle {
@@ -24,11 +24,11 @@ section.has-light-background h1 {
 }
 
 .reveal h1, .reveal h2, .reveal h3  {
-    text-shadow: 3px 4px 5px #000000dd !important;
+    text-shadow: 2px 3px 3px #00000055 !important;
 }
 
 .shadow, .reveal h4 {
-    text-shadow: 2px 3px 3px #000000dd !important;
+    text-shadow: 1px 1px 1px #00000055 !important;
 }
 
 .reveal h3 {

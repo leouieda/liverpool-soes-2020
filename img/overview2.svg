@@ -14,7 +14,7 @@
    viewBox="0 0 507.99999 285.75001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="overview.svg">
   <defs
      id="defs2" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75647996"
-     inkscape:cx="673.18187"
-     inkscape:cy="438.40847"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="935.73265"
+     inkscape:cy="467.54454"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,10 +56,29 @@
      transform="translate(0,-11.249964)">
     <path
        id="path851"
-       style="opacity:1;fill:#007e80;fill-opacity:0.94117647;stroke:#aaccff;stroke-width:5.0250001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 507.99999,154.12497 Z M 0,154.12496 l 508.00001,0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       style="opacity:1;fill:#007e80;fill-opacity:0.94117647;stroke:#aaccff;stroke-width:5.025;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 317.63334,154.12497 A 63.633339,63.633339 0 0 1 254,217.75831 63.633339,63.633339 0 0 1 190.36666,154.12497 63.633339,63.633339 0 0 1 254,90.491631 63.633339,63.633339 0 0 1 317.63334,154.12497 Z M 0,154.12496 h 190.36668 m 127.26664,-10e-6 190.36667,10e-6 M 254,11.249964 v 79.241675 m 0,127.266641 v 79.24168" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.29999995;font-family:serif;-inkscape-font-specification:serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="254.04448"
+       y="130.37599"
+       id="text872"><tspan
+         sodipodi:role="line"
+         id="tspan870"
+         x="254.04448"
+         y="130.37599"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.16666603px;font-family:Barlow;-inkscape-font-specification:Barlow;fill:#ffffff;stroke-width:0.26458332">open</tspan><tspan
+         sodipodi:role="line"
+         x="254.04448"
+         y="157.89265"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.16666603px;font-family:Barlow;-inkscape-font-specification:Barlow;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan874">source</tspan><tspan
+         sodipodi:role="line"
+         x="254.04448"
+         y="185.40932"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.16666603px;font-family:Barlow;-inkscape-font-specification:Barlow;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan876">software</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.29999995;font-family:Barlow;-inkscape-font-specification:Barlow;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -114,11 +133,5 @@
          x="365.39227"
          y="231.2881"
          style="font-weight:bold;fill:#ffffff;stroke-width:0.26458332">outreach</tspan></text>
-    <path
-       id="path851-2"
-       style="opacity:1;fill:#007e80;fill-opacity:0.94117647;stroke:#aaccff;stroke-width:5.0250001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 254,11.249964 V 296.99996"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
   </g>
 </svg>
